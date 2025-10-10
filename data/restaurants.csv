@@ -1,2 +1,5 @@
-name,address,phone,cuisine,website,longitude,latitude,createdAt
-El Buen Sabor,Calle Falsa 123,5551234567,Mexicana,https://elbuen.com,-99.1332,19.4326,2025-10-01T12:00:00Z
+name,address,phone,cuisine,website,longitude,latitude
+El Buen Sabor,Av. Reforma 120, CDMX,555-123-4567,Mexicana,https://elbuen-sabor.mx,-99.1332,19.4326
+Sushi Zen,Insurgentes Sur 3500, CDMX,555-987-6543,Japonesa,https://sushizen.com.mx,-99.1818,19.3553
+La Trattoria Italiana,Av. Universidad 250, CDMX,555-445-6677,Italiana,https://latrattoria.mx,-99.1635,19.3458
+Burger Station,Av. Juárez 180, Puebla,222-555-9090,Americana,https://burgerstation.mx,-98.2032,19.0433
